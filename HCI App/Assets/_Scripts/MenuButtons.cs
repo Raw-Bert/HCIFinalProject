@@ -8,11 +8,17 @@ public class MenuButtons : MonoBehaviour
 {
     //Name of the scene to switch to
     public string test;
+    public string FrenchMenu;
 
     //Just the example test button, but this button stuff isd all pretty ez!
     public void _ButtonNameHere_OnClick()
     {
         //This just cvhanges the scene to whatever test is set as in the editor
         SceneManager.LoadScene(test, LoadSceneMode.Single);
+    }
+
+    public void FrenchButton_OnClick()
+    {
+        SceneManager.LoadScene(FrenchMenu, LoadSceneMode.Single);
     }
 }
