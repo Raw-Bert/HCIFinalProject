@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ach_1
+  - Ach_2
+  - Ach_3
+  - Ach_4
   layers:
   - Default
   - TransparentFX
