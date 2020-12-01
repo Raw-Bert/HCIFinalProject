@@ -13,6 +13,10 @@ public class LearnSceneButtons : MonoBehaviour
     public GameObject greetingUI;
     public GameObject activityUI;
     public GameObject hotelUI;
+    public GameObject foodQuizUI;
+    public GameObject greetQuizUI;
+    public GameObject actiQuizUI;
+    public GameObject hotelQuizUI;
 
     public void BackButton_OnClick()
     {
@@ -43,5 +47,24 @@ public class LearnSceneButtons : MonoBehaviour
         hotelUI.SetActive(true);
     }
 
-
+    public void FoodQuiz_OnClick()
+    {
+        foodUI.SetActive(false);
+        foodQuizUI.SetActive(true);
+    }
+    public void GreetingQuiz_OnClick()
+    {
+        greetingUI.SetActive(false);
+        greetQuizUI.SetActive(true);
+    }
+    public void ActivityQuiz_OnClick()
+    {
+        activityUI.SetActive(false);
+        actiQuizUI.SetActive(true);
+    }
+    public void HotelQuiz_OnClick()
+    {
+        hotelUI.SetActive(false);
+        hotelQuizUI.SetActive(true);
+    }
 }
