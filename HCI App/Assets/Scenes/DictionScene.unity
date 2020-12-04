@@ -1132,6 +1132,44 @@ MonoBehaviour:
     equalEnglish: oui
     discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
       to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
+  - word: no
+    equalEnglish: non
+    discription: Sometimes you need to say "no". French speakers say "no" simply
+      by saying "non".
+  - word: goodbye
+    equalEnglish: au revoir
+    discription: When it's time to go, say "au revoir". This is how you say "goodbye"
+      in French.
+  - word: good evening
+    equalEnglish: bonsoir
+    discription: Wish someone a "good evening" in French by saying "bonsoir".
+  - word: good night
+    equalEnglish: bonne nuit
+    discription: Wish someone a "good night" in French by saying "bonne nuit".
+  - word: excuse me
+    equalEnglish: excusez-moi
+    discription: Excuse yourself in French by saying "excusez-moi".
+  - word: you're welcome
+    equalEnglish: de rien
+    discription: Tell someone "you're welcome" in French by saying "de rien".
+  - word: reason
+    equalEnglish: raison
+    discription: Tell someone your reason for doing something by saying "raison".
+  - word: handsome
+    equalEnglish: beau
+    discription: Call someone handsome in French by referring to them as "beau".
+  - word: beautiful
+    equalEnglish: belle
+    discription: Call someone beautiful in French by referring to them with "belle".
+  - word: strong
+    equalEnglish: fort
+    discription: Somerthing "strong" in French is described with the word "fort".
+  - word: day
+    equalEnglish: jour
+    discription: Ask for the day in French by saying "jour".
+  - word: time
+    equalEnglish: temps
+    discription: If you need the time in French, ask someone by saying "temps".
 --- !u!114 &956829119
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1150,7 +1188,7 @@ MonoBehaviour:
     m_Top: 10
     m_Bottom: 10
   m_ChildAlignment: 0
-  m_Spacing: 10
+  m_Spacing: 20
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 0
   m_ChildControlWidth: 1
