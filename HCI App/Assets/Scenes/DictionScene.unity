@@ -252,7 +252,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7.155957
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -339,7 +339,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 0e508733d78594c4ab0e1d13a61e8588, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
@@ -646,7 +646,7 @@ Canvas:
   m_GameObject: {fileID: 485236252}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 2
   m_Camera: {fileID: 66579222}
   m_PlaneDistance: 1
   m_PixelPerfect: 1
@@ -666,8 +666,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 485236252}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -9}
+  m_LocalScale: {x: 0.01577287, y: 0.01577287, z: 0.01577287}
   m_Children:
   - {fileID: 489387345}
   - {fileID: 1506072565}
@@ -680,8 +680,8 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0, y: 0}
+  m_SizeDelta: {x: 1332.0001, y: 634.00006}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &489387344
 GameObject:
   m_ObjectHideFlags: 0
@@ -1132,49 +1132,9 @@ MonoBehaviour:
     equalEnglish: yes
     discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
       to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: Je voudrais une chambre pour une nuit et une personne.
+  - word: je
     equalEnglish: I would like a room for one night and one person.
     discription: This is how you can ask for a room.
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
   - word: oui
     equalEnglish: yes
     discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
@@ -1887,7 +1847,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 56907a7896cf8054b87f986278d3dbfd, type: 3}
     m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
@@ -1967,7 +1927,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 0e508733d78594c4ab0e1d13a61e8588, type: 3}
     m_FontSize: 50
     m_FontStyle: 1
     m_BestFit: 0
