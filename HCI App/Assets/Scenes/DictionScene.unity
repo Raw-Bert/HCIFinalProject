@@ -1096,47 +1096,40 @@ MonoBehaviour:
   _discription: {fileID: 1907161880}
   searchInput: {fileID: 358916982}
   allWords:
-  - word: bonjour
-    equalEnglish: hello
+  - word: hello
+    equalEnglish: bonjour
     discription: Let's naturally start with "Bonjour" which means "Hello" in French.
       This is one of the most known words in French and a great way to start a conversation
       with someone from France.
-  - word: amour
-    equalEnglish: love
+  - word: love
+    equalEnglish: amour
     discription: Love is a universal feeling and we definitely had to talk about
       it here. French people have a lovely way of saying they love someone or something
       through the word "amour".
-  - word: bonheur
-    equalEnglish: happiness
+  - word: happiness
+    equalEnglish: bonheur
     discription: When there's love, there's definitely happiness. We are all chasing
       "bonheur" as French speaking people would say.
-  - word: chat
-    equalEnglish: cat
+  - word: cat
+    equalEnglish: chat
     discription: 'Let''s talk pets. There are two types of people in the world: cat
       people and dog people. We are going to talk about cats first or how people
       in France would say: "chat".'
-  - word: chien
-    equalEnglish: dog
+  - word: dog
+    equalEnglish: chien
     discription: But let's not forget our lovely and loyal companions, dogs. A dog
       in French is "chien", a really useful word for dog lovers worldwide.
-  - word: sourire
-    equalEnglish: smile
+  - word: smile
+    equalEnglish: sourire
     discription: Now it is time to smile or how someone from France would say "sourir".
       Smiling makes us happy and helps us stay healthy, so that's why we all need
       to smile every day.
-  - word: merci
-    equalEnglish: thank you
+  - word: thank you
+    equalEnglish: merci
     discription: Thank you for reading this far or should I say "Merci" as they say
       in French.
-  - word: oui
-    equalEnglish: yes
-    discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
-      to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
-  - word: je
-    equalEnglish: I would like a room for one night and one person.
-    discription: This is how you can ask for a room.
-  - word: oui
-    equalEnglish: yes
+  - word: yes
+    equalEnglish: oui
     discription: "Yes, we have arrived at number 8 where \u201Cyes\u201D is the subject
       to be discussed. French speakers say \u201Cyes\u201D by simply saying \"oui\"."
 --- !u!114 &956829119
@@ -1270,7 +1263,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Bonjour
+  m_Text: placeholder
 --- !u!222 &1162489562
 CanvasRenderer:
   m_ObjectHideFlags: 0
